@@ -1,7 +1,7 @@
 {
     "name": "stylelint-config-reflex",
     "description": "Stylelint config for Reflex.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": "Elias Early-Manchester",
     "license": "MIT",
     "homepage": "https://github.com/eliasearlym/stylelint-config-reflex#readme",
@@ -21,6 +21,7 @@
         "url": "https://github.com/eliasearlym/stylelint-config-reflex/issues"
     },
     "dependencies": {
+        "stylelint-config-idiomatic-order": "^8.1.0",
         "stylelint-order": "^4.1.0",
         "stylelint-scss": "^3.19.0"
     },

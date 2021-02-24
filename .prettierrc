@@ -1,0 +1,15 @@
+{
+    "tabWidth": 4,
+    "tabs": false,
+    "quotes": false,
+    "semi": true,
+    "trailingComma": "es5",
+    "overrides": [
+        {
+            "files": ["*.md"],
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ]
+}

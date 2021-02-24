@@ -1,0 +1,35 @@
+# Ignore always
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
+*.zip
+*~
+
+# OS
+._*
+.cache
+.DS_Store
+Thumbs.db
+
+# Compilers
+*.codekit3
+
+# Editor
+*.esproj
+*.sublime-project
+*.sublime-workspace
+.idea
+.project
+.tmproj
+/.vscode/
+nbproject
+
+# Packages
+/node_modules/
+
+# Project

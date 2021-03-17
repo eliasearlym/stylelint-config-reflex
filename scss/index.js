@@ -28,7 +28,7 @@ module.exports = {
         "scss/at-rule-conditional-no-parentheses": true,
         "scss/at-rule-no-unknown": true,
         "scss/dollar-variable-colon-newline-after": "always-multi-line",
-        "scss/dollar-variable-colon-space-after": "always",
+        "scss/dollar-variable-colon-space-after": "always-single-line",
         "scss/dollar-variable-colon-space-before": "never",
         "scss/dollar-variable-empty-line-after": [
             null,

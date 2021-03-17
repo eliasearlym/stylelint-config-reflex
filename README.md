@@ -20,7 +20,7 @@ We provide a config for CSS and SCSS. Depending on your project, you can extend 
 
 ```json
 {
-    extends: ["stylelint-config-reflex/css"],
+    "extends": ["stylelint-config-reflex/css"],
 }
 ```
 
@@ -28,6 +28,6 @@ We provide a config for CSS and SCSS. Depending on your project, you can extend 
 
 ```json
 {
-    extends: ["stylelint-config-reflex/scss"],
+    "extends": ["stylelint-config-reflex/scss"],
 }
 ```

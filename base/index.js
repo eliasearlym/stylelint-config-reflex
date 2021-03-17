@@ -43,7 +43,7 @@ module.exports = {
         "color-hex-case": "lower",
         "color-hex-length": "long",
         "font-family-name-quotes": "always-where-recommended",
-        "function-comma-newline-after": "never-multi-line",
+        "function-comma-newline-after": "always-multi-line",
         "function-comma-newline-before": "never-multi-line",
         "function-comma-space-after": "always-single-line",
         "function-comma-space-before": "never",

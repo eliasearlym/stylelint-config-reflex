@@ -1,7 +1,7 @@
 {
     "name": "stylelint-config-reflex",
     "description": "Stylelint config for Reflex.",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "author": "Elias Early-Manchester",
     "license": "MIT",
     "homepage": "https://github.com/eliasearlym/stylelint-config-reflex#readme",

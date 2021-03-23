@@ -159,14 +159,6 @@ module.exports = {
         "no-missing-end-of-source-newline": true,
         "no-empty-first-line": true,
         "unicode-bom": "never",
-        "order/order": [
-            "dollar-variables",
-            "custom-properties",
-            "at-variables",
-            "declarations",
-            "at-rules",
-            "less-mixins",
-            "rules",
-        ],
+        "order/order": ["custom-properties", "declarations"],
     },
 };

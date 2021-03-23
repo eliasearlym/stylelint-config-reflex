@@ -74,5 +74,13 @@ module.exports = {
         "scss/no-duplicate-dollar-variables": null,
         "scss/no-duplicate-mixins": true,
         "scss/no-global-function-names": true,
+        "order/order": [
+            "dollar-variables",
+            "custom-properties",
+            "at-variables",
+            "declarations",
+            "at-rules",
+            "rules",
+        ],
     },
 };
